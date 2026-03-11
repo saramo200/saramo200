@@ -5,8 +5,8 @@
 
 *I build real, production-ready applications using AI — from idea to deployment.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/[[YOUR-LINKEDIN](https://www.linkedin.com/in/sara-ibrahim-88b255286/)](https://www.linkedin.com/in/sara-ibrahim-88b255286/))
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail)](mailto:smosad268@gmail.com )
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sara-ibrahim-88b255286/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail)](mailto:smosad268@gmail.com)
 
 </div>
 
